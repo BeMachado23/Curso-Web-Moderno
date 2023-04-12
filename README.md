@@ -106,9 +106,13 @@ numéricos na ordem que foram inseridos. Por exemplo: calculadora (2, ‘+’, 3
 trabalho, de acordo com a tabela abaixo:
 
 | Plano | Aumento |
+
 |-------|---------|
+
 | A     | 10%     |
+
 | B     | 15%     |
+
 | C     | 20%     |
 
 
